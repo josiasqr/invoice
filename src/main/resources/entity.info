@@ -1,0 +1,17 @@
+= Customer
+	typeDocument
+	number
+	name
+	tradeName
+	code
+	address (c )
+
+= Type Document
+	GENERICO
+	RUC
+	DNI
+	CE
+	PASAPORTE
+
+
+
